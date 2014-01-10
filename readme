@@ -1,14 +1,16 @@
-<h1>Sismografo</h1>
+<html>
+  <h1>Sismografo</h1>
 
-<p>Aplicacion PC (Plan B) dependencias:<br>
-<ul>
-	<li>Software: <ul>
-		<li>Python >=2.7 </li>
+  <p>Aplicacion PC (Plan B) dependencias:<br>
+  <ul>
+	  <li>Software: <ul>
+		  <li>Python >=2.7 </li>
 		<li>PyQt >=4 </li>
 		<li>PyQtw >=5 </li>
 		<li>wiiuse</li>
 	</ul>
 	<li>Hardware PC y WiiRemote </li>
-</ul>
+  </ul>
  
-</p>
+  </p>
+</html>
