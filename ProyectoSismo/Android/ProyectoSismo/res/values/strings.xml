@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Proyecto Sismo</string>
+    <string name="action_settings">Settings</string>
+    <string name="historial_string">Estoy en Historial</string>
+    <string name="title_activity_sismografo">SismografoActivity</string>
+    <string name="activar">Activar Sismógrafo</string>
+    <string name="title_activity_historial">Historial</string>
+    <string name="notificaciones">Notificaciones</string>
+    <string name="sismografo_string">Estoy en el grafico del sismografo</string>
+    <string name="configuracion"> Configuración</string>
+    <string name="historial">Historial</string>
+    
+    <string name="itemList">This is an item of on android list</string>
+    
+    <string name="title1">Sismo 1</string>
+    <string name="description1">Tiempo de Medición: 0:50 / Escala Richter: 4,5</string>
+      
+    <string name="title2">Sismo 2</string>
+    <string name="description2">Tiempo de Medición: 1:20 / Escala Richter: 5,5</string>
+        
+    <string name="title3">Sismo 3</string>
+    <string name="description3">Tiempo de Medición: 0:30 / Escala Richter: 3,4</string>
+          
+
+</resources>
